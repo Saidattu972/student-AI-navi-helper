@@ -37,7 +37,7 @@ mention the approach and how you have solved the problem with the technology , u
 - be consise and specific
 - explain with images and flowcharts
 - 
-![flowchart]("C:\Users\saida\Downloads\flowchartiiit7.jpg")
+![flowchart]("https://imagetolink.com/ib/4V5W51G6bF")
 
 ## Techstacks used 
 `nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
