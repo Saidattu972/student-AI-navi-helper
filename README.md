@@ -5,7 +5,7 @@
     ⭐️get the details and have no confusion⭐️ <br>
 </h1>
 
-# [`Website link`](![WhatsApp Image 2024-03-17 at 08 33 55_3cd203a7](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/4ee13598-bfae-43a5-902a-07160ae58748) [`Demo video link `](https://youtu.be/9EMabDPEYQo?si=MXkWj5EZAjLQpZfQ)
+# [`Website`](![WhatsApp Image 2024-03-17 at 08 33 55_3cd203a7](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/4ee13598-bfae-43a5-902a-07160ae58748) [`Demo video link `](https://youtu.be/9EMabDPEYQo?si=MXkWj5EZAjLQpZfQ)
 its an informative and innovative creative idea project which describes the function of whatever the respective question asked, our created website will answer the repective question both voice and directions provided.basically who ever be the new to college or organization they would'nt find the b;locks and directions.we've created the solution for it both in voice way and displaying the image.suppose a person who wanted to visit admin block,by typing in our website "where is admin block?",our model hepls in derscribing the direction to it in voice command and at last it displays the image of block. it will help for new comers and repective parents who visit in college/organization. 
 ## Team Details
 `Team number` : VH211
