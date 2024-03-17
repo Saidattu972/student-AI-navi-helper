@@ -48,6 +48,13 @@ npm download
 npm start
 npm implement
 ```
+![Screenshot (25)](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/419b4647-5cdc-4e82-9712-fbfe2999a14f)
+![Screenshot (28)](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/64e2434f-f9e1-4a30-a993-488c7d851a74)
+![Screenshot (29)](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/1069067e-f3ad-4b7d-9340-05078cdd7f30)
+![Screenshot (30)](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/76f9b3e2-e2f9-4674-b4f2-1261c9b13daf)
+![Screenshot (32)](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/07823409-433e-4dec-a1c7-8ca49c534658)
+![Screenshot (33)](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/c8ac28de-a715-456d-915d-ac3719c11dad)
+![Screenshokyureyt (31)](https://github.com/Saidattu972/student-AI-navi-helper/assets/163526441/06d94c5e-c109-45f9-b1c5-d5d032407109)
 
 # What's next ?
 we wanted to create for the large number of colleges/organization.we are thinking to implement for whole colleges for whole range of data.the possible way like within the range of place whether the student or parent wanted to visit college/organization will help futher.
